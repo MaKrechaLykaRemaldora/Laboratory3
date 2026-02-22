@@ -1,0 +1,8 @@
+def display_details():
+    print("Name: Ma. Krecha Lyka D. Remaldora")
+    print("Student ID: 2024-1075-T")
+    print("Course/Year: BSCS2A")
+    print("Age: 20")
+    print("Address: Culasi, Antique")
+
+display_details()
