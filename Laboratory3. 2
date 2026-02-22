@@ -1,0 +1,8 @@
+def show_details(name, student_id, course, age, address):
+    print("Name:", name)
+    print("Student ID:", student_id)
+    print("Course:", course)
+    print("Age:", age)
+    print("Address:", address)
+
+show_details("Ma. Krecha Lyka D. Remaldora", "2024-1075-T", "BSCS2A", 20, "Culasi, Antique")
